@@ -1,0 +1,13 @@
+﻿Microsoft.CSharp
+System
+System.Core
+System.Data
+System.Data.DataSetExtensions
+System.Deployment
+System.IO
+System.Linq
+System.Net.Http
+System.Text.Encoding
+System.Web
+System.Windows.Forms
+System.Xml

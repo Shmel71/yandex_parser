@@ -1,0 +1,89 @@
+﻿{
+  "Version": "1.25",
+  "IsDarkTheme": true,
+  "ProductVersion": "1.41",
+  "References": {
+    "Items": [
+      "Microsoft.CSharp",
+      "System",
+      "System.Core",
+      "System.Data",
+      "System.Data.DataSetExtensions",
+      "System.Deployment",
+      "System.IO",
+      "System.Linq",
+      "System.Net.Http",
+      "System.Text.Encoding",
+      "System.Web",
+      "System.Windows.Forms",
+      "System.Xml"
+    ]
+  },
+  "Properties": {
+    "RobotName": "",
+    "RobotVersion": "1",
+    "Description": "",
+    "AllowedRunWithoutConfirm": false,
+    "DisableVisibleInParams": false,
+    "DisableVisibleOutParams": false,
+    "InParams": [],
+    "OutParams": [],
+    "Settings": [],
+    "PythonModules": ""
+  },
+  "Folders": [
+    {
+      "RelativePath": "",
+      "Folders": [
+        {
+          "RelativePath": "moduls",
+          "Folders": [],
+          "Files": [
+            {
+              "RelativePath": "init.process",
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "kill_browser.process",
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "open_browser.process",
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "parse_data.process",
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "reporter.process",
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            }
+          ],
+          "Links": []
+        }
+      ],
+      "Files": [
+        {
+          "RelativePath": "main.process",
+          "Main": true,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
+      "Links": []
+    }
+  ],
+  "Files": [],
+  "Links": []
+}
