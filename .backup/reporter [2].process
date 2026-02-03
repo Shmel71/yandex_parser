@@ -177,6 +177,15 @@
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
       <zIndex>8</zIndex>
     </Connection>
+    <Connection>
+      <SourceID>1d674417-3a85-4d74-8871-136ac17a80fc</SourceID>
+      <SinkID>37878a6c-12ff-4870-a711-a7b987642ed0</SinkID>
+      <SourceConnectorName>Next</SourceConnectorName>
+      <SinkConnectorName>Input</SinkConnectorName>
+      <SourceArrowSymbol>None</SourceArrowSymbol>
+      <SinkArrowSymbol>Arrow</SinkArrowSymbol>
+      <zIndex>14</zIndex>
+    </Connection>
   </Connections>
   <Properties />
   <PSCache></PSCache>

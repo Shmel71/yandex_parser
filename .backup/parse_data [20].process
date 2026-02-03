@@ -22,7 +22,7 @@
       <Width>200</Width>
       <Height>75</Height>
       <ID>0a4f61eb-c3bc-41a5-811e-631910c5f50b</ID>
-      <zIndex>24</zIndex>
+      <zIndex>22</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -37,7 +37,7 @@
       <Width>150</Width>
       <Height>150</Height>
       <ID>f23d475f-9e75-4491-8278-deb58face823</ID>
-      <zIndex>22</zIndex>
+      <zIndex>26</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -127,7 +127,7 @@
       <Width>200</Width>
       <Height>75</Height>
       <ID>968b5a47-1252-416b-a5a0-dd4c8127f1d6</ID>
-      <zIndex>26</zIndex>
+      <zIndex>28</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -157,7 +157,7 @@
       <Width>200</Width>
       <Height>75</Height>
       <ID>31273487-6842-49ee-852f-4181810ea05b</ID>
-      <zIndex>28</zIndex>
+      <zIndex>25</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -256,7 +256,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>25</zIndex>
+      <zIndex>23</zIndex>
     </Connection>
     <Connection>
       <SourceID>31273487-6842-49ee-852f-4181810ea05b</SourceID>
@@ -265,7 +265,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>27</zIndex>
+      <zIndex>24</zIndex>
     </Connection>
     <Connection>
       <SourceID>0a4f61eb-c3bc-41a5-811e-631910c5f50b</SourceID>
@@ -283,7 +283,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>23</zIndex>
+      <zIndex>27</zIndex>
     </Connection>
     <Connection>
       <SourceID>a61e7555-6ff4-47e4-a9e4-963df08c6175</SourceID>
