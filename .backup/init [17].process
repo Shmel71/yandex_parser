@@ -155,6 +155,7 @@
     <DiagramProperty Name="screen_resolution" Type="Number" IsGlobal="True" DefaultValue="0" Value="0" />
     <DiagramProperty Name="expectation" Type="Number" IsGlobal="True" DefaultValue="2" Value="2" />
     <DiagramProperty Name="dollar_exchange_rate" Type="Number" IsGlobal="True" DefaultValue="0" Value="0" />
+    <DiagramProperty Name="result_path" Type="Text" IsGlobal="True" DefaultValue="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" Value="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" />
   </Properties>
   <PSCache></PSCache>
   <Description></Description>

@@ -68,6 +68,12 @@
               "Main": false,
               "Showing": true,
               "Pinned": false
+            },
+            {
+              "RelativePath": "reporter.process",
+              "Main": true,
+              "Showing": true,
+              "Pinned": false
             }
           ],
           "Links": []
@@ -76,7 +82,7 @@
       "Files": [
         {
           "RelativePath": "main.process",
-          "Main": true,
+          "Main": false,
           "Showing": true,
           "Pinned": false
         }

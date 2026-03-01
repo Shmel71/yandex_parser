@@ -65,7 +65,13 @@
             },
             {
               "RelativePath": "parse_data.process",
-              "Main": true,
+              "Main": false,
+              "Showing": true,
+              "Pinned": false
+            },
+            {
+              "RelativePath": "reporter.process",
+              "Main": false,
               "Showing": true,
               "Pinned": false
             }
@@ -76,7 +82,7 @@
       "Files": [
         {
           "RelativePath": "main.process",
-          "Main": false,
+          "Main": true,
           "Showing": true,
           "Pinned": false
         }

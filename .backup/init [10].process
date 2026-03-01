@@ -22,7 +22,7 @@
       <Width>100</Width>
       <Height>100</Height>
       <ID>bc4652ed-dae9-4d17-a1eb-c4a54aab69af</ID>
-      <zIndex>3</zIndex>
+      <zIndex>5</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -37,7 +37,7 @@
       <Width>70</Width>
       <Height>70</Height>
       <ID>488d8f17-69ce-4c2b-8cb7-26eb97f3a315</ID>
-      <zIndex>8</zIndex>
+      <zIndex>9</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -67,7 +67,7 @@
       <Width>150</Width>
       <Height>100</Height>
       <ID>152c8d60-30c2-4ad8-b62f-d1cc87f694c4</ID>
-      <zIndex>5</zIndex>
+      <zIndex>7</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -82,7 +82,7 @@
       <Width>100</Width>
       <Height>100</Height>
       <ID>cda1850a-91c6-43fb-a6e8-63c5232f0043</ID>
-      <zIndex>10</zIndex>
+      <zIndex>3</zIndex>
       <IsGroup>false</IsGroup>
       <IsEnabled>true</IsEnabled>
       <Description></Description>
@@ -109,7 +109,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>4</zIndex>
+      <zIndex>6</zIndex>
     </Connection>
     <Connection>
       <SourceID>bc4652ed-dae9-4d17-a1eb-c4a54aab69af</SourceID>
@@ -118,7 +118,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>7</zIndex>
+      <zIndex>4</zIndex>
     </Connection>
     <Connection>
       <SourceID>c99bbbbc-43bd-4d5f-86a4-bbe6c2d6946c</SourceID>
@@ -127,7 +127,7 @@
       <SinkConnectorName>InputLeft</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>6</zIndex>
+      <zIndex>8</zIndex>
     </Connection>
     <Connection>
       <SourceID>cda1850a-91c6-43fb-a6e8-63c5232f0043</SourceID>
@@ -136,7 +136,7 @@
       <SinkConnectorName>Input</SinkConnectorName>
       <SourceArrowSymbol>None</SourceArrowSymbol>
       <SinkArrowSymbol>Arrow</SinkArrowSymbol>
-      <zIndex>9</zIndex>
+      <zIndex>10</zIndex>
     </Connection>
   </Connections>
   <Properties>
@@ -145,7 +145,7 @@
     <DiagramProperty Name="product_name" Type="Text" IsGlobal="True" DefaultValue="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" Value="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" />
     <DiagramProperty Name="screen_resolution" Type="Number" IsGlobal="True" DefaultValue="0" Value="0" />
     <DiagramProperty Name="expectation" Type="Number" IsGlobal="True" DefaultValue="2" Value="2" />
-    <DiagramProperty Name="dollar_exchange_rate" Type="Text" IsGlobal="True" DefaultValue="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" Value="AAEAAAD/////AQAAAAAAAAAGAQAAAAIiIgs=" />
+    <DiagramProperty Name="dollar_exchange_rate" Type="Number" IsGlobal="True" DefaultValue="0" Value="0" />
   </Properties>
   <PSCache></PSCache>
   <Description></Description>

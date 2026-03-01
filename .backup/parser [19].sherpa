@@ -1,7 +1,7 @@
 ﻿{
   "Version": "1.25",
   "IsDarkTheme": true,
-  "ProductVersion": "1.41",
+  "ProductVersion": "1.4.2.37901",
   "References": {
     "Items": [
       "Microsoft.CSharp",
@@ -26,10 +26,13 @@
     "AllowedRunWithoutConfirm": false,
     "DisableVisibleInParams": false,
     "DisableVisibleOutParams": false,
+    "TotalBlockExecutionDelay": 0,
     "InParams": [],
     "OutParams": [],
     "Settings": [],
-    "PythonModules": ""
+    "PythonModules": "",
+    "ModelAutopilot": "",
+    "ModelAIServer": ""
   },
   "Folders": [
     {
@@ -47,7 +50,7 @@
             },
             {
               "RelativePath": "kill_browser.process",
-              "Main": false,
+              "Main": true,
               "Showing": true,
               "Pinned": false
             },
@@ -76,7 +79,7 @@
       "Files": [
         {
           "RelativePath": "main.process",
-          "Main": true,
+          "Main": false,
           "Showing": true,
           "Pinned": false
         }
